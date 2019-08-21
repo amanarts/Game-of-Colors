@@ -11,13 +11,16 @@ h1{
     padding-bottom: 30%;
     float: left;
     margin: 1.66%;
-}
-
-span{
-    color: white;
-}
+} 
 
 #container{
     margin: 0 auto;
     max-width: 600px;
+}
+
+#stripe{
+    background: white;
+    height: 30px;
+    text-align: center;
+    color: black;
 }
